@@ -33,7 +33,7 @@ This web application uses machine learning to predict multiple diseases based on
 
 ## Deployment
 
-The app is deployed on Streamlit Cloud. You can access it [here]((https://mlwebapp-x.streamlit.app/)).
+The app is deployed on Streamlit Cloud. You can access it (https://mlwebapp-x.streamlit.app/).
 
 ## Contributing
 
