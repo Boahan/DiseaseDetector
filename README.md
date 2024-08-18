@@ -33,7 +33,7 @@ This web application uses machine learning to predict multiple diseases based on
 
 ## Deployment
 
-The app is deployed on Streamlit Cloud. You can access it [here]([https://share.streamlit.io/your-username/disease-predictor-web-app](https://mlwebapp-x.streamlit.app/)).
+The app is deployed on Streamlit Cloud. You can access it [here]((https://mlwebapp-x.streamlit.app/)).
 
 ## Contributing
 
@@ -42,5 +42,3 @@ Feel free to fork the repository and submit pull requests. For any issues or fea
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-```
